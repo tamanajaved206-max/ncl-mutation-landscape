@@ -4,8 +4,6 @@ Python data visualization of the mutational landscape across CLN1–CLN8 genes i
 
 A Python data analysis project visualizing the mutational landscape of **Neuronal Ceroid Lipofuscinoses (NCL)** — a group of rare, inherited neurodegenerative disorders caused by mutations in *CLN* genes.
 
-![NCL Mutation Landscape](ncl_mutation_landscape.png)
-
 ---
 
 ## What this project does
